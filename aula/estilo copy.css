@@ -21,10 +21,11 @@ section{
 div{
     padding: 8px;
 }
-
-div#msg{
+div#res{
     font-size: 20px;
+    font-family: sans-serif;
 }
+
 
 footer{
     color: white;
